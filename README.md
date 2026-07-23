@@ -1,0 +1,2 @@
+# liste
+exercice en C
